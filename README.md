@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanak28360217" target="blank"><img src="https://img.shields.io/twitter/follow/kanak28360217?logo=twitter&style=for-the-badge" alt="kanak28360217" /></a> </p>
 
-- 🌱 I’m currently learning **How to make ai Agents,  NextJs...**
+- 🌱 I’m currently learning **How to make ai Agents,  Web3**
 
 - 👨‍💻 All of my projects are available at(PortFolio) [https://kanakk365.github.io/Portfolio/](https://kanakk365.github.io/Portfolio/)
 
