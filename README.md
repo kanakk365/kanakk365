@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **How to make ai Agents,  Web3**
 
-- 👨‍💻 All of my projects are available at(PortFolio) [https://kanakk365.github.io/Portfolio/](https://kanakk365.github.io/Portfolio/)
-
 - 📫 How to reach me **kanakkumarmahala000@gmail.com**
 
 - ⚡ Fun fact **I play games(valo,elden ring,cs ...)**
